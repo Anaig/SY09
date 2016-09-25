@@ -2,3 +2,5 @@
 Data analyze & data mining : supervised and unsupervised learning
 
 Methods : PCA, k-nearest neighbor, hierarchical clustering, k-means, euclidean distance classifier, multiple discriminant analysis, linear regression...
+
+By Valentin Cathelain & Anaig Marechal
