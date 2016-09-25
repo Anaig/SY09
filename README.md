@@ -1,2 +1,2 @@
 # SY09
-Analyse des données et data mining
+Data analyze & data mining
